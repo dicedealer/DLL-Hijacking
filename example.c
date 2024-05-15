@@ -1,4 +1,4 @@
-## We will compile this to example.dll
+// We will compile this to example.dll
 
 #include <windows.h>
 
