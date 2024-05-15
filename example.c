@@ -1,3 +1,5 @@
+## We will compile this to example.dll
+
 #include <windows.h>
 
 BOOL WINAPI
