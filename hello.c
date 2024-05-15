@@ -1,4 +1,4 @@
-## Note that we will compile this to test.exe
+// Note that we will compile this to test.exe
 
 #include <windows.h>
 #include <stdio.h>
